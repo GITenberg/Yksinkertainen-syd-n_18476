@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/574
     wikipedia: http://en.wikipedia.org/wiki/Gustave_Flaubert
 description: 'Translation of: Un coeur simple'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18476#Yksinkertainen-syd-n
 gutenberg_issued: '2006-05-31'
 gutenberg_type: Text
 identifiers:
